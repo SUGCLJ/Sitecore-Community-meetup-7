@@ -1,4 +1,4 @@
-# Sitecore-Community-meetup-7
+# Sitecore Community meetup 7
 
 Meetup was Wednesday, December 4th, 2019 at Silicon Forest 2, and the event sponsered by Sebastian Tecsi, Vlad Iobagiu and Daniel Mocan.
 
